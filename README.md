@@ -17,17 +17,35 @@ The Core Responsibility is to comport with reason, scientific rigor, accuracy, a
 
 ## How to Avoid Eye Contact -- The Three Books
 
+### Step 0:
+
+The goal of step zero is to commit to a trilogy of books that will allow one to subsume the narratives of the Bible. 
+
+Throughout one's missions in this particular field (the one envisioned by the author of this algorithm [let the reader understand]) it becomes increasingly straightforward to comprehend the dark sayings of those enmeshed in the field of Atheist/Christianity double-agency.
+
+Nevertheless, it is perhaps beyond crucial to pay proper recognition to the ever present role of 
+
+0a) singular-heart; 
+0b) singular-eye; and 
+0c) singular mind. 
+
+There is a mission and a field at hand, with no intention of wasting it or losing progress, after all.
+
+Which brings us to step 1.
+
 ### Step 1:
 
-The goal of step one is to find a trilogy of books that allow one to subsume the narratives of the Bible. Throughout one's missions in this particular field (the one envisioned by the author of this algorithm [let the reader understand]) it becomes increasingly straightforward to comprehend the dark sayings of those enmeshed in the field of Atheist/Christianity double-agency.
 
-Nevertheless, it is perhaps beyond crucial to pay proper recognition to the ever present role of 1) singular-heart; 2) singular-eye; and 3) singular mind. There is a mission and a field at hand, with no intention of wasting it or losing progress, after all.
 
-Which brings us to step 1a
+* 1a) 
+   Choose a religious book. In this case we chose the Bible, owing to the requirements and constraints of algorithm Zero//step zero.
+   
+* 1b) 
 
-* 1a) Find a copy of a "fair repudiation" of your chosen "religious" book
+   Find a copy of a "fair repudiation" of your chosen "religious" book
    ** in this case we choose The Bible for the religious book
    ** in this case we also choose the Skeptics Annotated Bible as the fair repudiation of our religious book
-   
-* 1b) Take out all the excerpts and references, where the fair repudiation concedes there is actually something worthwhile in the religious book.
+
+
+    Take out all the excerpts and references, where the fair repudiation concedes there is actually something worthwhile in the religious book.
    ** in this case, we take all the sections of the Skeptic's Annotated Bible 
