@@ -25,9 +25,9 @@ Throughout one's missions in this particular field (the one envisioned by the au
 
 Nevertheless, it is perhaps beyond crucial to pay proper recognition to the ever present role of 
 
-0a) singular-heart; 
-0b) singular-eye; and 
-0c) singular mind. 
+* 0a) singular-heart; 
+* 0b) singular-eye; and 
+* 0c) singular mind. 
 
 There is a mission and a field at hand, with no intention of wasting it or losing progress, after all.
 
