@@ -43,9 +43,9 @@ Which brings us to step 1.
 * 1b) 
 
    Find a copy of a "fair repudiation" of your chosen "religious" book
-   ** in this case we choose The Bible for the religious book
-   ** in this case we also choose the Skeptics Annotated Bible as the fair repudiation of our religious book
+   * in this case we choose The Bible for the religious book
+   * in this case we also choose the Skeptics Annotated Bible as the fair repudiation of our religious book
 
 
     Take out all the excerpts and references, where the fair repudiation concedes there is actually something worthwhile in the religious book.
-   ** in this case, we take all the sections of the Skeptic's Annotated Bible 
+   * in this case, we take all the sections of the Skeptic's Annotated Bible 
